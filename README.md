@@ -17,6 +17,3 @@ Swift 5.9 より前の方法
 
 Swift 5.9 からの方法
 - `C++` を直接呼ぶ
-
-## Other
-- https://github.com/crane-hiromu/Swift-Objc-Cpp
